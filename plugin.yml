@@ -1,0 +1,6 @@
+name: WeatherLock
+main: idk.plugin.WeatherLock.Main
+version: "1.0"
+api: ["1.0.0"]
+author: PetteriM1
+website: https://github.com/PetteriM1/WeatherLock
